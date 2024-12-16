@@ -1,35 +1,12 @@
 //************************************************************************
 // Author: Phuc Nguyen
-// Date: 6 December 2024
 // Language: C++
-// Assignment: Module 7 Learning Outcome
+// Assignment: Final Project
+// Course: Programming Fundamental I
+// Institution: Northwest Vista CollegeVistaCollege
 // Description: Program prompt user to choose a selection. The selection
 // choice that they make will determine the functionality the program will
 // execute.
-//************************************************************************
-// MODIFICATIONS SEP 29 (Section2)
-// create option 1,2,3 and 0 to provide exit message using switch
-// MODIFICATIONS OCT 13 (Section3)
-// create option 4 to create right triangle, and an outside box of menu
-// wrap the menu in a loop until users enter 0
-// MODIFICATIONS Oct 27 (Section4)
-// refactor option3 and option4 to user-defined function
-// create option 5 and 6 by using user-defined function
-// MODIFICATIONS Nov 10 (Section5)
-// change double calculatePay to void calculatePay
-// create void function to display header
-// refactor code getting users' first and last by creating function
-// create a namespace bankAccount for option 6 to calculate and display
-// the accumulated interest balance
-// create an enumeration with 10 buildings on campus and a function
-// to print the chosen enum parameter
-// MODIFICATIONS NOV 24 (Section6)
-// refactor displayInterest function in the bankAccount namespace
-// create option 8 including function to take quiz grades, function
-// display the grades, and function to return the average grade
-// MODIFICATION DEC 6 (Section7)
-// create option 9 including Contacts structures and function to display
-// the populated parameter.
 //************************************************************************
 #include<iostream>
 #include<iomanip>
